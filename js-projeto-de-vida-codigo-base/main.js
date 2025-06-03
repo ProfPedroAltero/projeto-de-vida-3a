@@ -14,3 +14,8 @@ for(let i=0;i < botoes.length; i++){
     console.log();
 }
 
+const contadores = document.querySelectorAll (".contador");
+const tempoObjetivo1 = new Date("")
+const tempoObjetivo2 = new Date("")
+const tempoObjetivo3 = new Date("")
+const tempoObjetivo4 = new Date("")
